@@ -24,7 +24,7 @@ A real estate company needs to accurately predict house sale prices to optimize 
 
 ## Conclusion
 
-The project successfully delivered two regression models that exceed the accuracy requirements. The advanced **Gradient Boosting model is 33% more efficient** than the base model, and **almost twice as accurate as originally required** than the baseline model, providing highly accurate price predictions. Both model results have been saved for easy interpretation.
+The project successfully delivered two regression models that exceed the accuracy requirements. The advanced **Gradient Boosting model is 33% more efficient** than the base model, and **almost twice as accurate as originally required**. Both model results have been saved for easy interpretation.
 
 ## Files
 
